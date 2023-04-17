@@ -20,7 +20,6 @@ Welcome to my Github page! I am Burak. I am self-motivated and goal-orianted iOS
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/realmio.svg"></code>
 
 </p>
 
