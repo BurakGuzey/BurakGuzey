@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Burak. I am self-motivated and goal-orianted iOS developer. I'm currently looking for opportunities. I would love to learn and contribute in any and every possible way.
 
-#### :computer: Programming languages and tools: 
+#### Programming languages and tools: 
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
